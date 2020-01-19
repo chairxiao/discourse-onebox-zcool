@@ -5,7 +5,7 @@
 # authors: dengzi
 # https://www.zcool.com.cn/work/ZNDIzMzcxMzI=.html
 
-# Onebox = Onebox
+Onebox = Onebox
 
 module Onebox
 	module Engine
